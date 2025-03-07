@@ -1,0 +1,9 @@
+requests
+re
+datetime
+urllib
+lxml
+bs4
+langchain_ollama
+langchain_community
+pymupdf
