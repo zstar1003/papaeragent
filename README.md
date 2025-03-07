@@ -1,6 +1,11 @@
 # Academicagent
 
-academicagent 是一个集成了从 arXiv 下载论文以及利用本地大模型 (Ollama) 对论文进行下载并评价的 Python 包。
+Academicagent 是一个集成了从 arXiv 下载论文以及利用本地大模型 (Ollama) 对论文进行下载并评价的 Python 包。
+
+<p align="center">
+  <a href="./README.md">English</a> |
+  <a href="./README_zh.md">简体中文</a> 
+</p>
 
 ---
 
