@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='academicagent',
-    version='0.1.1',
+    version='0.1.2',
     author='zstar',
     author_email='zstar1003@163.com',
     description='A package to download arXiv papers and interact with PDFs using Ollama LLM',
@@ -16,6 +16,7 @@ setup(
         'beautifulsoup4',
         'langchain_ollama',
         'langchain_community',
+        'PyMuPDF',
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
